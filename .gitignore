@@ -1,0 +1,6 @@
+data
+logs
+checkpoints
+wandb
+
+.DS_Store
