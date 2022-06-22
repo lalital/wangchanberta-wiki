@@ -5,6 +5,6 @@ This repository is used for Thai language model pre-training named __WangchanBER
 
 ## Instructions
 
-1. Data preparation [page](docs/thwiki_data-preparation.md)
+1. Data preparation [page](docs/1-thwiki_data_preparation.md)
 
 2. Encoder-only Transformer-based model pre-training
